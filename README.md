@@ -1,6 +1,7 @@
 # TDD / BDD Practice Code
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Build Status](https://github.com/ATHOY43259/duwjx-tdd_bdd_PracticeCode/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/ATHOY43259/duwjx-tdd_bdd_PracticeCode/actions/workflows/ci-build.yaml)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
 This repository contains the practice code for the labs in **IBM-CD0241EN-SkillsNetwork Introduction to Test Driven Development**
