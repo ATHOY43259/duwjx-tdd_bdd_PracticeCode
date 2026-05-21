@@ -3,6 +3,7 @@ Service Package
 """
 import sys
 import logging
+
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 
@@ -19,7 +20,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-from service import routes, models
+from service import routes, models  # noqa: F401, E402
 
 with app.app_context():
     db.create_all()
